@@ -1,0 +1,20 @@
+div{
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	background-color: grey;
+	border: 1px solid black;
+}
+
+.father{
+	width: 380px;
+	height: 125px;
+}
+
+.son{
+	display: inline-block;
+}
+
+.inline{
+	display: inline-block;
+}
